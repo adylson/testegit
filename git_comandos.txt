@@ -1,0 +1,5 @@
+- git status > mostra o status dos arquivos ... atualizados ou nao no git ...
+- git log > mostra o log das atualizações
+- git reset HEAD arquivo > para remover a versão daquele arquivo
+- git add arquivo > incluir o arquivo na lista a ser commitado
+- git add . > inclui todos os arquivos na lista a ser commitado
