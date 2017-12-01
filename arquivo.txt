@@ -8,3 +8,13 @@
 01/12/2017  10:29                 0 arquivo.txt
                1 arquivo(s)              0 bytes
                2 pasta(s)   933.436.182.528 bytes dispon°veis
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 5C03-D221
+
+ Pasta de C:\Users\adyls.DESKTOP-U1ARAN9\aulagit
+
+01/12/2017  10:29    <DIR>          .
+01/12/2017  10:29    <DIR>          ..
+01/12/2017  10:29               375 arquivo.txt
+               1 arquivo(s)            375 bytes
+               2 pasta(s)   933.435.613.184 bytes dispon°veis
