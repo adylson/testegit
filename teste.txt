@@ -1,0 +1,11 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 5C03-D221
+
+ Pasta de C:\Users\adyls.DESKTOP-U1ARAN9\aulagit
+
+01/12/2017  10:38    <DIR>          .
+01/12/2017  10:38    <DIR>          ..
+01/12/2017  10:35               750 arquivo.txt
+01/12/2017  10:38                 0 teste.txt
+               2 arquivo(s)            750 bytes
+               2 pasta(s)   933.434.642.432 bytes dispon°veis
